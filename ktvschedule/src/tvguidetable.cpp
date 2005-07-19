@@ -750,7 +750,7 @@ TvItem::TvItem(QTable *table,EditType et)
 	if (this->Live =="live" ) // There is a live information
 	{
 		// If yes, add live Icon at top left. ! The ktvschedule-live icon does not install by it self :(
-  		p->drawPixmap ( 0, 0, KGlobal::iconLoader()->loadIcon("ktvschedule-live", KIcon::Toolbar) );
+  		p->drawPixmap ( 0, 0, UserIcon("live_show", KIcon::Toolbar) );
 	}
  }
  
