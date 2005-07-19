@@ -1,0 +1,10 @@
+[!Global!]
+IconName=ktvschedule
+Comment=KTvSchedule
+
+[ktvschedule_event]
+Name=Event
+Comment=Show newly running programs
+default_sound=Kopete_Event.ogg
+default_presentation=16
+

@@ -1,0 +1,550 @@
+# translation of el.po to GREEK
+# translation of ktvschedule.po to GREEK
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Alexios Beveratos <alexios@beveratos.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-07-16 18:17+0200\n"
+"PO-Revision-Date: 2005-07-16 12:35+0200\n"
+"Last-Translator: Alexios Beveratos <alexios@beveratos.com>\n"
+"Language-Team: GREEK <http://i18n.kde.org/teams/el/id.html>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+
+#: channelselect_ui.cpp:133 rc.cpp:2
+msgid "Channel Selector"
+msgstr "Επιλογή Κανάλιου"
+
+#: channelselect_ui.cpp:135 rc.cpp:4
+#, fuzzy
+msgid "&Submit"
+msgstr "&Υποβολή"
+
+#: channelselect_ui.cpp:136 rc.cpp:5
+#, fuzzy
+msgid "Alt+S"
+msgstr "Alt K"
+
+#: channelselect_ui.cpp:138 rc.cpp:7
+#, fuzzy
+msgid "Alt+C"
+msgstr "Alt C"
+
+#: channelselect_ui.cpp:140 rc.cpp:9
+#, fuzzy
+msgid "Remove Channel"
+msgstr "Αφαίρεση καναλιού"
+
+#: channelselect_ui.cpp:141 rc.cpp:10
+#, fuzzy
+msgid "Inactive channels"
+msgstr "Ανενεργό κανάλια"
+
+#: channelselect_ui.cpp:143 rc.cpp:12
+#, fuzzy
+msgid "Add Channel"
+msgstr "Προσθήκη καναλιού"
+
+#: channelselect_ui.cpp:144 rc.cpp:13
+#, fuzzy
+msgid "Active channels"
+msgstr "Ενεργό κανάλια"
+
+#: channelselect_ui.cpp:145 channelselect_ui.cpp:146 rc.cpp:14 rc.cpp:15
+#, fuzzy
+msgid "Up"
+msgstr "Πάνω"
+
+#: channelselect_ui.cpp:147 channelselect_ui.cpp:148 rc.cpp:16 rc.cpp:17
+#, fuzzy
+msgid "Down"
+msgstr "Κάτω"
+
+#: detailspreflayout.cpp:175 rc.cpp:18
+msgid "Display Categories"
+msgstr "Εμφάνιση κατηγοριών"
+
+#: detailspreflayout.cpp:177 rc.cpp:20 tvguidetable.cpp:292
+msgid "Credits"
+msgstr ""
+
+#: detailspreflayout.cpp:179 rc.cpp:22 tvguidetable.cpp:304
+msgid "Producers"
+msgstr "Παραγογώς"
+
+#: detailspreflayout.cpp:180 rc.cpp:23
+msgid "Guests"
+msgstr "Καλεσμένοι"
+
+#: detailspreflayout.cpp:181 rc.cpp:24 tvguidetable.cpp:295
+msgid "Actors"
+msgstr ""
+
+#: detailspreflayout.cpp:183 rc.cpp:26 tvguidetable.cpp:250
+#, fuzzy
+msgid "Title"
+msgstr "Τίτλος"
+
+#: detailspreflayout.cpp:184 rc.cpp:27 tvguidetable.cpp:256
+msgid "SubTitle"
+msgstr "Υπότιτλος"
+
+#: detailspreflayout.cpp:185 rc.cpp:28 tvguidetable.cpp:322
+#, fuzzy
+msgid "Rating"
+msgstr "Κατάταξη"
+
+#: detailspreflayout.cpp:186 rc.cpp:29 tvguidetable.cpp:328
+#, fuzzy
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: detailspreflayout.cpp:187 rc.cpp:30
+#, fuzzy
+msgid "Categories"
+msgstr "Κατηγορία"
+
+#: detailspreflayout.cpp:188 rc.cpp:31
+#, fuzzy
+msgid "Episode Number"
+msgstr "Αριθμός επισοδίου"
+
+#: detailspreflayout.cpp:189 rc.cpp:32
+#, fuzzy
+msgid "Total play time"
+msgstr "Σύνολοκός Χρόνος Αναπαραγωγης"
+
+#: detailspreflayout.cpp:190 rc.cpp:33 tvguidetable.cpp:353
+#, fuzzy
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: detailspreflayout.cpp:191 rc.cpp:34 tvguidetable.cpp:373
+#, fuzzy
+msgid "Scheduler"
+msgstr "Προγραμματισμός"
+
+#: detailspreflayout.cpp:193 rc.cpp:36
+#, fuzzy
+msgid "Show View"
+msgstr "Προβολή"
+
+#: detailspreflayout.cpp:194 rc.cpp:37 tvguidetable.cpp:362
+#, fuzzy
+msgid "PR Rating system"
+msgstr "Κατάταξη"
+
+#: generalprefslayout.cpp:242 prefsdialog.cpp:56 rc.cpp:38
+#, fuzzy
+msgid "General"
+msgstr "Γενικά"
+
+#: generalprefslayout.cpp:243 rc.cpp:40
+msgid "Behaviour"
+msgstr ""
+
+#: generalprefslayout.cpp:244 rc.cpp:41
+#, fuzzy
+msgid "Auto go &to current time"
+msgstr "Αυτόματα στην τρέχουσα ώρα"
+
+#: generalprefslayout.cpp:245 rc.cpp:42
+#, fuzzy
+msgid "Alt+T"
+msgstr "Alt K"
+
+#: generalprefslayout.cpp:246 rc.cpp:43
+#, fuzzy
+msgid "Automatically track current time"
+msgstr "Αυτόματα στην τρέχουσα ώρα"
+
+#: generalprefslayout.cpp:247 rc.cpp:44
+msgid "Grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:248 rc.cpp:45
+msgid "tv_grab (xmltv)"
+msgstr "tv_grab (xmltv)"
+
+#: generalprefslayout.cpp:249 rc.cpp:46
+msgid "NxTvEPG"
+msgstr "NxTvEPG"
+
+#: generalprefslayout.cpp:251 rc.cpp:48
+#, fuzzy
+msgid "Grabber Settings"
+msgstr "Ρυθμίσεις διαδρομής"
+
+#: generalprefslayout.cpp:252 rc.cpp:49
+msgid "Path"
+msgstr "Διαδρομή"
+
+#: generalprefslayout.cpp:253 rc.cpp:50
+msgid "List Gra&bbers"
+msgstr ""
+
+#: generalprefslayout.cpp:254 rc.cpp:51
+#, fuzzy
+msgid "Alt+B"
+msgstr "Alt K"
+
+#: generalprefslayout.cpp:255 rc.cpp:52
+msgid "List available grabbers"
+msgstr ""
+
+#: generalprefslayout.cpp:256 rc.cpp:53
+#, fuzzy
+msgid "Configuration File"
+msgstr "Ρυθμίσεις Tv Grab"
+
+#: generalprefslayout.cpp:257 rc.cpp:54
+msgid "XML File"
+msgstr "Αρχείο XML"
+
+#: generalprefslayout.cpp:258 rc.cpp:55
+msgid "Path to the tv grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:261 rc.cpp:58
+msgid "Configure current grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:262 rc.cpp:59
+msgid "tv _grab configuration file."
+msgstr "Αρχείο ρυθμίσεων Tv Grab"
+
+#: generalprefslayout.cpp:263 rc.cpp:60
+msgid "XML output file of the tv grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:264 rc.cpp:61
+msgid "tv_grab Options"
+msgstr "Επιλογές tv_grab"
+
+#: generalprefslayout.cpp:265 rc.cpp:62
+msgid "First day in"
+msgstr "Πρώτη ημέρα σε"
+
+#: generalprefslayout.cpp:266 rc.cpp:63
+msgid "Start grabbing in x days"
+msgstr ""
+
+#: generalprefslayout.cpp:267 rc.cpp:64
+#, fuzzy
+msgid "days"
+msgstr "ημέρες"
+
+#: generalprefslayout.cpp:269 rc.cpp:66
+#, fuzzy
+msgid "How many days to grab"
+msgstr "Αριθμός από Ημέρες στο όλα"
+
+#: generalprefslayout.cpp:270 rc.cpp:67
+#, fuzzy
+msgid "Number of Days to grab"
+msgstr "Αριθμός από Ημέρες στο όλα"
+
+#: generalprefslayout.cpp:271 rc.cpp:68
+msgid "Full Details (takes &longer)"
+msgstr "Ολες της Λεπτομέρειες (αργό)"
+
+#: generalprefslayout.cpp:272 rc.cpp:69
+#, fuzzy
+msgid "Alt+L"
+msgstr "Alt K"
+
+#: generalprefslayout.cpp:273 rc.cpp:70
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: generalprefslayout.cpp:274 rc.cpp:71
+msgid "Update Guide on start"
+msgstr "Ενημέρωση προγράματος στην εκκίνηση"
+
+#: generalprefslayout.cpp:275 rc.cpp:72
+msgid ""
+"days before end of \n"
+"current valid grid"
+msgstr ""
+
+#: generalprefslayout.cpp:277 rc.cpp:47
+#, fuzzy
+msgid "tv_grab"
+msgstr "Επιλογές tv_grab"
+
+#: generalprefslayout.cpp:278 rc.cpp:74
+#, fuzzy
+msgid "NxTvEPG settings"
+msgstr "Ρυθμίσεις στυλ"
+
+#: generalprefslayout.cpp:279 rc.cpp:75
+msgid "Path to xml file"
+msgstr ""
+
+#: generalprefslayout.cpp:280 rc.cpp:73
+msgid "nxtvepg"
+msgstr ""
+
+#: ktvschedule.cpp:148
+#, fuzzy
+msgid "Now &Playing"
+msgstr "Χωρίς Κατάταξη"
+
+#: ktvschedule.cpp:150
+#, fuzzy
+msgid "&Refresh Guide"
+msgstr "Ανανέωση αρχείου XMLσ"
+
+#: ktvschedule.cpp:152
+#, fuzzy
+msgid "&Manage Channels"
+msgstr "Διαχειρισμός Κανάλιών"
+
+#: ktvschedule.cpp:158
+#, fuzzy
+msgid "Pre&vious Day"
+msgstr "Προηγούμενο Προγράμματα"
+
+#: ktvschedule.cpp:160
+msgid "&Next Day"
+msgstr ""
+
+#: ktvschedule.cpp:164
+msgid "&Find Next Show"
+msgstr ""
+
+#: ktvschedule.cpp:205
+msgid "&Grid"
+msgstr ""
+
+#: ktvschedule.cpp:218
+msgid "KTvSchedule"
+msgstr ""
+
+#: ktvschedule.cpp:219
+#, fuzzy
+msgid ""
+"TV Schedule.\n"
+"\n"
+"KDE Front end for TV Schedule programs.\n"
+"created by xmltv (tv_grab_xx)"
+msgstr "TV Προγραμματισμός Μπροστά για TV Προγραμματισμός"
+
+#: ktvschedule.cpp:223
+msgid "Main Developper"
+msgstr ""
+
+#: main.cpp:28
+#, fuzzy
+msgid "A KDE KPart Application"
+msgstr "Μία KPart Εφαρμογή του KDE"
+
+#: main.cpp:40 rc.cpp:88 scheduleprefslayout.cpp:185
+msgid "ktvschedule"
+msgstr ""
+
+#: prefsdialog.cpp:52
+#, fuzzy
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: prefsdialog.cpp:56
+#, fuzzy
+msgid "General options"
+msgstr "Γενικές επιλογές"
+
+#: prefsdialog.cpp:79
+#, fuzzy
+msgid "Colors"
+msgstr "Χρώματα"
+
+#: prefsdialog.cpp:79
+#, fuzzy
+msgid "Style settings"
+msgstr "Ρυθμίσεις στυλ"
+
+#: prefsdialog.cpp:89 rc.cpp:76 scheduleprefslayout.cpp:173
+#, fuzzy
+msgid "Schedule"
+msgstr "Προγραμματισμός"
+
+#: prefsdialog.cpp:89
+msgid "Schedule settings"
+msgstr "Ρυθμίσεις Προγραμματισμούσ"
+
+#: prefsdialog.cpp:102
+msgid "Details"
+msgstr ""
+
+#: prefsdialog.cpp:102
+#, fuzzy
+msgid "Details Selection"
+msgstr "Επιλογή Κανάλιου"
+
+#: prefsdialog.cpp:284
+#, fuzzy
+msgid ""
+"This will set the default options in ALL pages of the preferences dialog! "
+"Continue?"
+msgstr "set προκαθορισμένο in σελίδες από Συνέχεια?"
+
+#: prefsdialog.cpp:285
+#, fuzzy
+msgid "Set default options?"
+msgstr "προκαθορισμένο?"
+
+#: prefsdialog.cpp:286
+msgid "Set defaults"
+msgstr ""
+
+#: rc.cpp:1
+#, fuzzy
+msgid "C&ustom"
+msgstr "&Προσαρμοσμένο"
+
+#: rc.cpp:77 scheduleprefslayout.cpp:174
+#, fuzzy
+msgid "Schedule Agent"
+msgstr "Προγραμματισμός Πράκτορας"
+
+#: rc.cpp:78 scheduleprefslayout.cpp:175
+#, fuzzy
+msgid "KOrganizer (needs konsolekalendar)"
+msgstr "KOrganizer"
+
+#: rc.cpp:79 scheduleprefslayout.cpp:176
+msgid "KAlarm (ver > 1.2)"
+msgstr ""
+
+#: rc.cpp:81 scheduleprefslayout.cpp:178
+#, fuzzy
+msgid "KOrganizer. No options yet"
+msgstr "KOrganizer Όχι"
+
+#: rc.cpp:82 scheduleprefslayout.cpp:179
+#, fuzzy
+msgid "Font color"
+msgstr "Γραμματοσειρά"
+
+#: rc.cpp:84 scheduleprefslayout.cpp:181
+#, fuzzy
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: rc.cpp:86 scheduleprefslayout.cpp:183
+msgid "Alarm (mins)"
+msgstr "Ειδοποίηση (λεπτά)"
+
+#: rc.cpp:87 scheduleprefslayout.cpp:184
+#, fuzzy
+msgid "Cancel if Late"
+msgstr "Ακύρωση"
+
+#: rc.cpp:89 styleprefslayout.cpp:131
+#, fuzzy
+msgid "Style"
+msgstr "Στυλ"
+
+#: rc.cpp:90 styleprefslayout.cpp:132
+msgid "Cell Colors"
+msgstr "Χρώμα Κελιού"
+
+#: rc.cpp:91 styleprefslayout.cpp:133
+#, fuzzy
+msgid "Current Program"
+msgstr "Τρέχον Πρόγραμμα"
+
+#: rc.cpp:92 styleprefslayout.cpp:134
+#, fuzzy
+msgid "Next Programs"
+msgstr "Επόμενο Προγράμματα"
+
+#: rc.cpp:93 styleprefslayout.cpp:135
+#, fuzzy
+msgid "Previous Programs"
+msgstr "Προηγούμενο Προγράμματα"
+
+#: rc.cpp:97 rc.cpp:98 styleprefslayout.cpp:139 styleprefslayout.cpp:140
+#, fuzzy
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: rc.cpp:100 styleprefslayout.cpp:142
+#, fuzzy
+msgid "Selected Category"
+msgstr "Επιλεγμένο Κατηγορία"
+
+#: systemtray.moc.cpp:34 systemtray.moc.cpp:42
+msgid "SystemTray"
+msgstr ""
+
+#: _translatorinfo.cpp:1
+#, fuzzy
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Αλέξιος Μπεβεράτος"
+
+#: _translatorinfo.cpp:3
+#, fuzzy
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "alexios@beveratos.com"
+
+#: tvgrabprefslayout.cpp:46
+#, fuzzy
+msgid "Form1"
+msgstr "Φόρμα1"
+
+#: tvguidetable.cpp:300
+msgid "Guest"
+msgstr ""
+
+#: tvguidetable.cpp:311
+msgid "Episode number"
+msgstr "Αριθμός επισοδίου"
+
+#: tvguidetable.cpp:318
+msgid "No Rating"
+msgstr "Χωρίς Κατάταξη"
+
+#: tvguidetable.cpp:337
+msgid "Total Play Time"
+msgstr "Σύνολοκός Χρόνος Αναπαραγωγης"
+
+#: tvguidetable.cpp:349
+#, fuzzy
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: tvguidetable.cpp:357
+#, fuzzy
+msgid "Show view"
+msgstr "Προβολή"
+
+#: tvguidetable.cpp:362
+#, fuzzy
+msgid "Value"
+msgstr "Τιμή"
+
+#: tvguidetable.cpp:370
+#, fuzzy
+msgid "Schedule Program"
+msgstr "Προγραμματισμός Πρόγραμμα"
+
+#: tvguidetable.cpp:371
+#, fuzzy
+msgid "Record Program"
+msgstr "Προγραμματισμός Πρόγραμμα"
+
+#: tvscheduler.cpp:101
+#, fuzzy
+msgid "on channel"
+msgstr "Προσθήκη καναλιού"

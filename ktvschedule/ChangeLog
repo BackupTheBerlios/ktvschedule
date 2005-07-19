@@ -1,0 +1,91 @@
+ Ver 0.1.8
+ 
+Upgrade :
+ Added systemtray
+ Added Credits of Tv shows (Actors, Guests, Producers)
+ Added link to imdb for each actor in the menu
+ 
+ Added Translations (german full, french partial, greek zero)
+ 
+ Added possibility to choose the details one wants to display
+ Changed grabber configuration menu. Takes in account the differences between each tv_grab
+ Show in the tray icon the current shows.
+ Added (first) support for nxtvepg. At the moment it only supports showing of the nxtvepg xml file. Updating should be done by the user
+ Added control of row heights.
+
+BugFix : 
+ Probably the last fix needed for sorting and icons in function of the different grabbers
+ If show is 2 lines long or less than 10 mins show text is cut. Fixed
+ Tv_Grab did not quits after ktvschedule quits. Fixed
+ Fixed minimum size of ComboBox in case of empty combolist
+ Manage channel button is disabled while refreshing guide
+ 
+ 
+
+ -------------------------------
+ 21 June 2005
+ Ver 0.1.7
+ BugFix : 
+ 1)Important bug fix with infinite loop when there exist a ktvschedulerc file. It only appeared for grabbers which store extra info in the configuration file
+ 2) Bug fix with inconcistent table when changing date due to sorting. Did not exist to ver < 0.1.5
+ 3) Bug fix for icons. It should now either check on local files or try to download on local folder. More work to be done.
+ 4) Fixed compile error with QDir and gcc 3.3
+ 
+ Upgrade :
+ 1) Added Rating
+ 2) Added multiple Categories of some shows
+ 3) Added episode number
+ ------------------------------------
+ 08 June 2005
+ Ver 0.1.6
+ BugFix : Important bug fix with home path of application folder. Should work better now
+ 
+ Upgrade : New color scheme (thanks for TvBrowser for the idea).
+ Now in the channel manager, one can sort the channels in the desired order. This is then applied to the Tv Schedule table.
+ ------------------
+ 
+ 02 June 2005
+ Ver 0.1.5
+ Upgrade : One can now schedule a program that he wants to see. It interacts either with KOrganizer (via konsolekalendar) or with KAlarm (via dcop).
+ -----------
+ 20 Mai 2005
+ Ver 0.1.4
+ Bug Fix : Small typos
+ 
+ Upgrade : Now uses knotify for notifing 
+ -----------
+ 17 April 2005
+ Ver 0.1.3
+ 
+ Bug Fix : 
+ Several small bug fixes
+ 
+ Should now be independant of the grabber (in fact of the http source that gives the shows)
+ 
+ Upgrade : 
+ 
+ Icons of Tv Channels appearing in the table and the Channel Manager
+ 
+ PopUp of current shows now integrates all shows in one view
+ ------------------------
+ 12 April 2005
+ Ver 0.1.2
+ 
+ Bug fix : Changed shortcut keys from ALT+ to CTRL+
+ 
+ Fixed problem with very long lines in the description field
+ 
+ Upgrade : Added a combo box to highlight programs from a given category
+ ---------------------------
+ 11 April 2005.
+ Ver 0.1.1
+ 
+ Bug fix : When changing color in the configuration, a pop-up opens for all programs. Bug fixed
+ 
+ Upgrade : Changed buttons to kActions
+ Moved the date chooser to the toolbar
+ ------------------------
+ 06 April 2005
+ ver 0.1
+ 
+ First release. You have to run at least once your favorite tv_grab_?? -- configure.

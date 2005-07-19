@@ -1,0 +1,8 @@
+This is a front end to xmlguide. It uses tv_grab_xx to update the xml file.
+
+ATTENTION :
+Using xmltv and tv_grab_xx can be forbidden depeding on the grabber you are using.
+
+Known issues : 
+
+There is an issue with grabbers for norway and sweden. In fact the grabber does not write the channel names in the config file (only numbers) and there is no link to the icons for each channel. Please ask the maintainer of the grabbers to change it :)

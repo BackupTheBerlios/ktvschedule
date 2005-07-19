@@ -1,0 +1,468 @@
+#: channelselect_ui.cpp:133 rc.cpp:2
+msgid "Channel Selector"
+msgstr ""
+
+#: channelselect_ui.cpp:135 rc.cpp:4
+msgid "&Submit"
+msgstr ""
+
+#: channelselect_ui.cpp:136 rc.cpp:5
+msgid "Alt+S"
+msgstr ""
+
+#: channelselect_ui.cpp:138 rc.cpp:7
+msgid "Alt+C"
+msgstr ""
+
+#: channelselect_ui.cpp:140 rc.cpp:9
+msgid "Remove Channel"
+msgstr ""
+
+#: channelselect_ui.cpp:141 rc.cpp:10
+msgid "Inactive channels"
+msgstr "Chaine Inactives"
+
+#: channelselect_ui.cpp:143 rc.cpp:12
+msgid "Add Channel"
+msgstr "Ajouter Chaine"
+
+#: channelselect_ui.cpp:144 rc.cpp:13
+msgid "Active channels"
+msgstr "Chaines Actives"
+
+#: channelselect_ui.cpp:145 channelselect_ui.cpp:146 rc.cpp:14 rc.cpp:15
+msgid "Up"
+msgstr "Haut"
+
+#: channelselect_ui.cpp:147 channelselect_ui.cpp:148 rc.cpp:16 rc.cpp:17
+msgid "Down"
+msgstr "Bas"
+
+#: detailspreflayout.cpp:175 rc.cpp:18
+msgid "Display Categories"
+msgstr ""
+
+#: detailspreflayout.cpp:177 rc.cpp:20 tvguidetable.cpp:292
+msgid "Credits"
+msgstr ""
+
+#: detailspreflayout.cpp:179 rc.cpp:22 tvguidetable.cpp:304
+msgid "Producers"
+msgstr ""
+
+#: detailspreflayout.cpp:180 rc.cpp:23
+msgid "Guests"
+msgstr ""
+
+#: detailspreflayout.cpp:181 rc.cpp:24 tvguidetable.cpp:295
+msgid "Actors"
+msgstr ""
+
+#: detailspreflayout.cpp:183 rc.cpp:26 tvguidetable.cpp:250
+msgid "Title"
+msgstr ""
+
+#: detailspreflayout.cpp:184 rc.cpp:27 tvguidetable.cpp:256
+msgid "SubTitle"
+msgstr ""
+
+#: detailspreflayout.cpp:185 rc.cpp:28 tvguidetable.cpp:322
+msgid "Rating"
+msgstr ""
+
+#: detailspreflayout.cpp:186 rc.cpp:29 tvguidetable.cpp:328
+msgid "Description"
+msgstr ""
+
+#: detailspreflayout.cpp:187 rc.cpp:30
+msgid "Categories"
+msgstr ""
+
+#: detailspreflayout.cpp:188 rc.cpp:31
+msgid "Episode Number"
+msgstr ""
+
+#: detailspreflayout.cpp:189 rc.cpp:32
+msgid "Total play time"
+msgstr ""
+
+#: detailspreflayout.cpp:190 rc.cpp:33 tvguidetable.cpp:353
+msgid "Language"
+msgstr ""
+
+#: detailspreflayout.cpp:191 rc.cpp:34 tvguidetable.cpp:373
+msgid "Scheduler"
+msgstr ""
+
+#: detailspreflayout.cpp:193 rc.cpp:36
+msgid "Show View"
+msgstr ""
+
+#: detailspreflayout.cpp:194 rc.cpp:37 tvguidetable.cpp:362
+msgid "PR Rating system"
+msgstr ""
+
+#: generalprefslayout.cpp:242 prefsdialog.cpp:56 rc.cpp:38
+msgid "General"
+msgstr "General"
+
+#: generalprefslayout.cpp:243 rc.cpp:40
+msgid "Behaviour"
+msgstr ""
+
+#: generalprefslayout.cpp:244 rc.cpp:41
+msgid "Auto go &to current time"
+msgstr ""
+
+#: generalprefslayout.cpp:245 rc.cpp:42
+msgid "Alt+T"
+msgstr ""
+
+#: generalprefslayout.cpp:246 rc.cpp:43
+msgid "Automatically track current time"
+msgstr ""
+
+#: generalprefslayout.cpp:247 rc.cpp:44
+msgid "Grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:248 rc.cpp:45
+#, fuzzy
+msgid "tv_grab (xmltv)"
+msgstr "Options tv_grab"
+
+#: generalprefslayout.cpp:249 rc.cpp:46
+msgid "NxTvEPG"
+msgstr ""
+
+#: generalprefslayout.cpp:251 rc.cpp:48
+msgid "Grabber Settings"
+msgstr ""
+
+#: generalprefslayout.cpp:252 rc.cpp:49
+msgid "Path"
+msgstr ""
+
+#: generalprefslayout.cpp:253 rc.cpp:50
+msgid "List Gra&bbers"
+msgstr ""
+
+#: generalprefslayout.cpp:254 rc.cpp:51
+msgid "Alt+B"
+msgstr ""
+
+#: generalprefslayout.cpp:255 rc.cpp:52
+msgid "List available grabbers"
+msgstr ""
+
+#: generalprefslayout.cpp:256 rc.cpp:53
+#, fuzzy
+msgid "Configuration File"
+msgstr "Configuration Tv Grab"
+
+#: generalprefslayout.cpp:257 rc.cpp:54
+msgid "XML File"
+msgstr "Fichier XML"
+
+#: generalprefslayout.cpp:258 rc.cpp:55
+msgid "Path to the tv grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:261 rc.cpp:58
+msgid "Configure current grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:262 rc.cpp:59
+#, fuzzy
+msgid "tv _grab configuration file."
+msgstr "Configuration Tv Grab"
+
+#: generalprefslayout.cpp:263 rc.cpp:60
+msgid "XML output file of the tv grabber"
+msgstr ""
+
+#: generalprefslayout.cpp:264 rc.cpp:61
+msgid "tv_grab Options"
+msgstr "Options tv_grab"
+
+#: generalprefslayout.cpp:265 rc.cpp:62
+msgid "First day in"
+msgstr "Premier jour dans"
+
+#: generalprefslayout.cpp:266 rc.cpp:63
+msgid "Start grabbing in x days"
+msgstr ""
+
+#: generalprefslayout.cpp:267 rc.cpp:64
+msgid "days"
+msgstr "jours"
+
+#: generalprefslayout.cpp:269 rc.cpp:66
+msgid "How many days to grab"
+msgstr ""
+
+#: generalprefslayout.cpp:270 rc.cpp:67
+msgid "Number of Days to grab"
+msgstr ""
+
+#: generalprefslayout.cpp:271 rc.cpp:68
+#, fuzzy
+msgid "Full Details (takes &longer)"
+msgstr "Tout les details (prend plus de temps)"
+
+#: generalprefslayout.cpp:272 rc.cpp:69
+msgid "Alt+L"
+msgstr ""
+
+#: generalprefslayout.cpp:273 rc.cpp:70
+msgid "Update"
+msgstr ""
+
+#: generalprefslayout.cpp:274 rc.cpp:71
+msgid "Update Guide on start"
+msgstr ""
+
+#: generalprefslayout.cpp:275 rc.cpp:72
+msgid ""
+"days before end of \n"
+"current valid grid"
+msgstr ""
+
+#: generalprefslayout.cpp:277 rc.cpp:47
+#, fuzzy
+msgid "tv_grab"
+msgstr "Options tv_grab"
+
+#: generalprefslayout.cpp:278 rc.cpp:74
+msgid "NxTvEPG settings"
+msgstr ""
+
+#: generalprefslayout.cpp:279 rc.cpp:75
+msgid "Path to xml file"
+msgstr ""
+
+#: generalprefslayout.cpp:280 rc.cpp:73
+msgid "nxtvepg"
+msgstr ""
+
+#: ktvschedule.cpp:148
+msgid "Now &Playing"
+msgstr ""
+
+#: ktvschedule.cpp:150
+msgid "&Refresh Guide"
+msgstr ""
+
+#: ktvschedule.cpp:152
+msgid "&Manage Channels"
+msgstr ""
+
+#: ktvschedule.cpp:158
+msgid "Pre&vious Day"
+msgstr ""
+
+#: ktvschedule.cpp:160
+msgid "&Next Day"
+msgstr ""
+
+#: ktvschedule.cpp:164
+msgid "&Find Next Show"
+msgstr ""
+
+#: ktvschedule.cpp:205
+msgid "&Grid"
+msgstr ""
+
+#: ktvschedule.cpp:218
+msgid "KTvSchedule"
+msgstr ""
+
+#: ktvschedule.cpp:219
+msgid ""
+"TV Schedule.\n"
+"\n"
+"KDE Front end for TV Schedule programs.\n"
+"created by xmltv (tv_grab_xx)"
+msgstr ""
+
+#: ktvschedule.cpp:223
+msgid "Main Developper"
+msgstr ""
+
+#: main.cpp:28
+msgid "A KDE KPart Application"
+msgstr ""
+
+#: main.cpp:40 rc.cpp:88 scheduleprefslayout.cpp:185
+msgid "ktvschedule"
+msgstr ""
+
+#: prefsdialog.cpp:52
+msgid "Preferences"
+msgstr ""
+
+#: prefsdialog.cpp:56
+msgid "General options"
+msgstr ""
+
+#: prefsdialog.cpp:79
+msgid "Colors"
+msgstr ""
+
+#: prefsdialog.cpp:79
+msgid "Style settings"
+msgstr ""
+
+#: prefsdialog.cpp:89 rc.cpp:76 scheduleprefslayout.cpp:173
+msgid "Schedule"
+msgstr ""
+
+#: prefsdialog.cpp:89
+msgid "Schedule settings"
+msgstr ""
+
+#: prefsdialog.cpp:102
+msgid "Details"
+msgstr ""
+
+#: prefsdialog.cpp:102
+msgid "Details Selection"
+msgstr ""
+
+#: prefsdialog.cpp:284
+msgid ""
+"This will set the default options in ALL pages of the preferences dialog! "
+"Continue?"
+msgstr ""
+
+#: prefsdialog.cpp:285
+msgid "Set default options?"
+msgstr ""
+
+#: prefsdialog.cpp:286
+msgid "Set defaults"
+msgstr ""
+
+#: rc.cpp:1
+msgid "C&ustom"
+msgstr ""
+
+#: rc.cpp:77 scheduleprefslayout.cpp:174
+msgid "Schedule Agent"
+msgstr ""
+
+#: rc.cpp:78 scheduleprefslayout.cpp:175
+msgid "KOrganizer (needs konsolekalendar)"
+msgstr ""
+
+#: rc.cpp:79 scheduleprefslayout.cpp:176
+msgid "KAlarm (ver > 1.2)"
+msgstr ""
+
+#: rc.cpp:81 scheduleprefslayout.cpp:178
+msgid "KOrganizer. No options yet"
+msgstr ""
+
+#: rc.cpp:82 scheduleprefslayout.cpp:179
+msgid "Font color"
+msgstr ""
+
+#: rc.cpp:84 scheduleprefslayout.cpp:181
+msgid "Background color"
+msgstr ""
+
+#: rc.cpp:86 scheduleprefslayout.cpp:183
+msgid "Alarm (mins)"
+msgstr ""
+
+#: rc.cpp:87 scheduleprefslayout.cpp:184
+msgid "Cancel if Late"
+msgstr ""
+
+#: rc.cpp:89 styleprefslayout.cpp:131
+msgid "Style"
+msgstr ""
+
+#: rc.cpp:90 styleprefslayout.cpp:132
+msgid "Cell Colors"
+msgstr ""
+
+#: rc.cpp:91 styleprefslayout.cpp:133
+msgid "Current Program"
+msgstr ""
+
+#: rc.cpp:92 styleprefslayout.cpp:134
+msgid "Next Programs"
+msgstr ""
+
+#: rc.cpp:93 styleprefslayout.cpp:135
+msgid "Previous Programs"
+msgstr ""
+
+#: rc.cpp:97 rc.cpp:98 styleprefslayout.cpp:139 styleprefslayout.cpp:140
+msgid "Text Color"
+msgstr ""
+
+#: rc.cpp:100 styleprefslayout.cpp:142
+msgid "Selected Category"
+msgstr ""
+
+#: systemtray.moc.cpp:34 systemtray.moc.cpp:42
+msgid "SystemTray"
+msgstr ""
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: tvgrabprefslayout.cpp:46
+msgid "Form1"
+msgstr ""
+
+#: tvguidetable.cpp:300
+msgid "Guest"
+msgstr ""
+
+#: tvguidetable.cpp:311
+msgid "Episode number"
+msgstr ""
+
+#: tvguidetable.cpp:318
+msgid "No Rating"
+msgstr ""
+
+#: tvguidetable.cpp:337
+msgid "Total Play Time"
+msgstr ""
+
+#: tvguidetable.cpp:349
+msgid "Category"
+msgstr ""
+
+#: tvguidetable.cpp:357
+msgid "Show view"
+msgstr ""
+
+#: tvguidetable.cpp:362
+msgid "Value"
+msgstr ""
+
+#: tvguidetable.cpp:370
+msgid "Schedule Program"
+msgstr ""
+
+#: tvguidetable.cpp:371
+msgid "Record Program"
+msgstr ""
+
+#: tvscheduler.cpp:101
+msgid "on channel"
+msgstr ""
