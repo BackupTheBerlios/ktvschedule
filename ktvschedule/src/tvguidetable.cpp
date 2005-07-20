@@ -631,6 +631,8 @@ TvItem::TvItem(QTable *table,EditType et)
 	 this->EpisodeNum_ddProgid=QString::null;
 	 this->EpisodeNum_onscreen=-1;
 	 this->Live=QString::null;
+	 this->Classification_age=QString::null;
+	 this->Stereo = QString::null;
  }
  
  TvItem::~TvItem()

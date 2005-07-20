@@ -143,6 +143,8 @@ public:
 	QStringList Actors;
 	QStringList Producers;
 	QStringList Guests;
+	QString Classification_age;
+	QString Stereo;
 	//QDate DateofShow;
 	int EpisodeNum_onscreen;
 	int Stars;
