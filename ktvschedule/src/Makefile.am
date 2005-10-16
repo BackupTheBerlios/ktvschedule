@@ -36,4 +36,5 @@ shellrc_DATA = ktvscheduleui.rc eventsrc
 
 noinst_HEADERS = ktvschedule.h tvguidetable.h channellist.h configuration.h prefsdialog.h tvscheduler.h systemtray.h
 kde_icon_KDEICON = hi22-app-ktvschedule.png hi16-app-ktvschedule-live.png hi16-app-ktvschedule-live.png hi16-app-ktvschedule-live.png hi16-app-ktvschedule-live.png hi32-app-ktvschedule-live.png hi32-app-ktvschedule-live.png
+
 SUBDIRS =  pics
